@@ -1,4 +1,4 @@
-# Looker Studio Dashboards and Projects
+# Looker Studio
 
 Welcome to my Looker Studio repository! Here, you will find a collection of dashboards and projects created using Looker Studio, a powerful tool for data visualization and reporting.
 
