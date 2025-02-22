@@ -40,16 +40,6 @@ To explore the dashboards or create your own:
 2. Sign in with your Google account.
 3. Import the datasets provided in this repository.
 4. Start building or analyzing the dashboards.
-
----
-
-## 📌 Featured Dashboards
-
-- [Sales Dashboard](https://lookerstudio.google.com/s/lL-...) - Visualizes sales performance with dynamic charts and filters.
-- [Marketing Analytics Dashboard](#) - Analyze marketing campaigns and customer engagement.
-
-> More dashboards and projects will be added regularly!
-
 ---
 
 ## 📈 Why Use Looker Studio?
